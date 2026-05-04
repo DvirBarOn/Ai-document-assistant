@@ -2,6 +2,8 @@
 
 AI Document Assistant is a lightweight document analysis tool built with Python and Streamlit.
 
+This project is an MVP/prototype of a lean internal AI tool designed to help organizations analyze documents without complex infrastructure.
+
 The app allows users to paste text or upload TXT/PDF files, extract document content, and analyze it using AI through the OpenRouter API. If the free AI models are temporarily unavailable or rate-limited, the app provides a local fallback analysis and a manual ChatGPT prompt that can be copied and used with the original document.
 
 ## Features
