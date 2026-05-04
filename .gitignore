@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# Streamlit cache/config
+.streamlit/
+
+# Temporary files
+*.log
+
+# Local
+test_document.txt
